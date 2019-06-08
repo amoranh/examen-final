@@ -40,6 +40,7 @@ public class Usuario {
 		super();
 		this.nombres = nombres;
 		this.apellidos = apellidos;
+		this.email=email;
 	}
 
 	public Integer getId() {
